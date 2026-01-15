@@ -1,7 +1,6 @@
 # ETL (Extract, Transform, Load) Data Pipeline Project
 
-*Completed as a final project for Carnegie Mellon University's 36614 Graduate Data Engineering course in collaboration with classmates Ryan Yu (@ryanjamesyu2) and Qianruixi (Erica) Wang (@
-qianruixiwang)*
+*Completed as a final project for Carnegie Mellon University's 36614 Graduate Data Engineering course in collaboration with classmates Ryan Yu (@ryanjamesyu2) and Qianruixi (Erica) Wang (@qianruixiwang)*
 
 An ETL and reporting pipeline for HHS and Quality hospital data. The pipeline can be broadly broken down into 3 parts: schema, loading, and reporting. These parts are detailed in later sections. To run the code, use the `prancer_env` virtual environment provided in the `env.yml` file. You can create the environment by running the following command:
 
